@@ -225,7 +225,7 @@ We welcome contributions! Please follow these steps:
 
 ## 🔗 Links
 
-- **Live Demo**: [https://InnoVisionii.vercel.app](https://InnoVision-psi.vercel.app/)
+- **Live Demo**: [https://InnoVision-psi.vercel.app/](https://InnoVision-psi.vercel.app/)
 - **Repository**: [https://github.com/ItsVikasA/Innovision](https://github.com/ItsVikasA/Innovision)
 
 ## 📄 License
